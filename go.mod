@@ -1,4 +1,4 @@
-module github.com/strawberry-productions/ebitengine-template
+module github.com/ethanmil/asteroid
 
 go 1.25.1
 

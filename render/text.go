@@ -5,10 +5,10 @@ import (
 	"image/color"
 	"log"
 
+	"github.com/ethanmil/asteroid/physics"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/examples/resources/fonts"
 	"github.com/hajimehoshi/ebiten/v2/text/v2"
-	"github.com/strawberry-productions/ebitengine-template/physics"
 )
 
 var (

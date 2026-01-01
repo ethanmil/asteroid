@@ -5,9 +5,9 @@ import (
 	"log"
 	"math"
 
+	"github.com/ethanmil/asteroid/physics"
 	"github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
-	"github.com/strawberry-productions/ebitengine-template/physics"
 
 	_ "image/png"
 )

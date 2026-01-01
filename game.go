@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/ethanmil/asteroid/physics"
+	"github.com/ethanmil/asteroid/render"
 	"github.com/hajimehoshi/ebiten/v2"
-	"github.com/strawberry-productions/ebitengine-template/physics"
-	"github.com/strawberry-productions/ebitengine-template/render"
 )
 
 type Game struct{}
