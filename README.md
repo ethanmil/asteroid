@@ -1,4 +1,4 @@
-# [game_name]
+# Asteroids
 
 This game is developed on top of [ebitengine](https://ebitengine.org/)
 
