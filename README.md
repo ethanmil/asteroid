@@ -8,3 +8,7 @@ to fit best around the sort of game that this is to become.
 ## Development
 
 A [magefile](https://magefile.org/) makes it easy to run & repeat certain operations
+
+## Resources
+
+[Assets](https://gvituri.itch.io/space-shooter)
